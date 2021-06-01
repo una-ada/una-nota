@@ -12,4 +12,4 @@
 	- [ ] URLs and CSS declarations
 	- [ ] Changelog
 - [ ] Fix kerning
-- [ ] Update [README](/README.md)
+- [ ] Update [README](README.md)
